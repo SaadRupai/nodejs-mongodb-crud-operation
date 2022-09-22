@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb-crud-operation",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000j\u0000s\u0000-\u0000m\u0000o\u0000n\u0000g\u0000o\u0000d\u0000b\u0000-\u0000c\u0000r\u0000u\u0000d\u0000-\u0000o\u0000p\u0000e\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadrupai97/nodejs-mongodb-crud-operation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadrupai97/nodejs-mongodb-crud-operation/issues"
+  },
+  "homepage": "https://github.com/saadrupai97/nodejs-mongodb-crud-operation#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
